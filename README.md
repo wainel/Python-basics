@@ -14,4 +14,4 @@ Write a function that takes a **string** in English as input and returns the num
 For example: If the string is 'The cat is sleeping', then the function should return : (6, 10)
 
 ## MakeTeam
-Write a function that takes a **dictionary** called people as input and returns 3 **lists* named cook, gardener and clerk containing the name of each individual with this job.
+Write a function that takes a **dictionary** called people as input and returns 3 **lists** named cook, gardener and clerk containing the name of each individual with this job.
