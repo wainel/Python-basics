@@ -24,3 +24,11 @@ The itertools module is a collection of tools for handling iterators. It offers 
 
 ## Lambda
 A lambda function is a small (one line) anonymous function that is defined without a name. It is typically used when you need a simple function that is used only once in your code, or it is used as an argument to higher-order functions.
+
+## Logging
+- Different LogLevel
+- Different Configuration options
+- How to log in different modules
+- How to use different LogHandlers
+- How to capture StackTraces in your log
+- How to use Rotating FileHandler
