@@ -15,3 +15,6 @@ For example: If the string is 'The cat is sleeping', then the function should re
 
 ## MakeTeam
 Write a function that takes a **dictionary** called people as input and returns 3 **lists** named cook, gardener and clerk containing the name of each individual with this job.
+
+## Collections
+The collections module implements special container datatypes and provides alternatives with some additional functionality compared to the general built-in containers, like dict, list, or tuple: Counter, namedtuple, OrderedDict, defaultdict and deque.
