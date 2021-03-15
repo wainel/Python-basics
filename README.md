@@ -37,4 +37,4 @@ A lambda function is a small (one line) anonymous function that is defined witho
 Random module for pseudo-random numbers, the secrets module for cryptographically strong random numbers, and the numpy.random module to generate arrays filled with random numbers.
 
 ## Decorators
-A decorator is a function that takes another function and extends the behavior of this function without explicitly modifying it.
+A decorator is a function that takes another function as argument and extends the behavior of this function without explicitly modifying it. It allows you to add new functionalities to an existing function.
