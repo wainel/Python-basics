@@ -32,3 +32,6 @@ A lambda function is a small (one line) anonymous function that is defined witho
 - How to use different LogHandlers
 - How to capture StackTraces in your log
 - How to use Rotating FileHandler
+
+## Random Numbers
+Random module for pseudo-random numbers, the secrets module for cryptographically strong random numbers, and the numpy.random module to generate arrays filled with random numbers.
