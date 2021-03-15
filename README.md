@@ -18,3 +18,6 @@ Write a function that takes a **dictionary** called people as input and returns 
 
 ## Collections
 The collections module implements special container datatypes and provides alternatives with some additional functionality compared to the general built-in containers, like dict, list, or tuple: Counter, namedtuple, OrderedDict, defaultdict and deque.
+
+## Itertools
+The itertools module is a collection of tools for handling iterators. It offers some advanced tools like product(), permutations(), combinations(), accumulate(), groupby(), and infinite iterators like cycle(), repeat(), and count().
