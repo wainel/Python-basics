@@ -38,3 +38,6 @@ Random module for pseudo-random numbers, the secrets module for cryptographicall
 
 ## Decorators
 A decorator is a function that takes another function as argument and extends the behavior of this function without explicitly modifying it. It allows you to add new functionalities to an existing function.
+
+## Generators
+Generators are functions that return an object that can be iterated over. The special thing is that they generate the items inside the object lazily, which means they generate the items only one at a time, and only when you ask for it. Because of this they are much more memory efficient than other sequence objects when you have to deal with large datasets.
