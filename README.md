@@ -23,4 +23,4 @@ The collections module implements special container datatypes and provides alter
 The itertools module is a collection of tools for handling iterators. It offers some advanced tools like product(), permutations(), combinations(), accumulate(), groupby(), and infinite iterators like cycle(), repeat(), and count().
 
 ## Lambda
-A lambda function is a small (one line) anonymous function that is defined without a name. It is typically used when you need a simple function that is used only once in your code, or it is used as an argument to higher-order functions. We will go over how you define them, and some use cases together with the built-in sorted(), map(), filter,() and reduce() functions.
+A lambda function is a small (one line) anonymous function that is defined without a name. It is typically used when you need a simple function that is used only once in your code, or it is used as an argument to higher-order functions.
